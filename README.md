@@ -1,6 +1,6 @@
 <div align="">
 <h1 align="center">Hola,👋 soy Jimmy</h1>
-<h4>Hello! I am **Jimmy Euscategui Pulido**, software developer and Economics student, passionate about software development. Combining my interest in these two areas to explore economics and development.</h4>
+<h4>Hello! I am Jimmy Euscategui Pulido, software developer and Economics student, passionate about software development. Combining my interest in these two areas to explore economics and development.</h4>
 </div>
 <p align="left">
 <a href="https://www.linkedin.com/in/jimmyeuscategui" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
